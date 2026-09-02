@@ -1,2 +1,6 @@
 .build
 .direnv
+modules
+.west
+zephyr
+zmk
